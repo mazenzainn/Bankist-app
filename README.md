@@ -16,8 +16,8 @@ Use these login details to access the bank features. Keep in mind, the project d
 
 | Username | Pin |
 |----------|----------|
-| mz| 1111|
-| af| 2222|
+| mz | 1111|
+| af | 2222|
 
 ## Technologies Used
 - HTML5
