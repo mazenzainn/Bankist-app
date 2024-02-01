@@ -18,3 +18,8 @@ Use these login details to access the bank features. Keep in mind, the project d
 |----------|----------|
 | mz| 1111|
 | af| 2222|
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
